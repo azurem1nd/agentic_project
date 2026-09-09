@@ -1,0 +1,10 @@
+CONTEXT:
+Streaming platforms organize music the way a record store would: by artist, 
+genre, era, mood-tag playlists built for generic contexts ("Chill," "Workout," 
+"Focus"). But that's not how people actually relate to their own listening history.
+A song from a completely different genre and decade can sit next to another 
+because they both mean "the summer everything fell apart" or "driving home 
+from college at 2am." That organizing logic is entirely personal, built
+from memory and repetition, not metadata.
+PROBLEM 
+POTENTIAL SOLNS
