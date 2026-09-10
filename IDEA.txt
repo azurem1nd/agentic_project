@@ -1,9 +1,10 @@
+IDEA 1 - MUSIC
 CONTEXT:
 Streaming platforms organize music the way a record store would: by artist, 
 genre, era, mood-tag playlists built for generic contexts ("Chill," "Workout," 
 "Focus"). But that's not how people actually relate to their own listening history.
 A song from a completely different genre and decade can sit next to another 
-because they both mean "the summer everything fell apart" or "driving home 
+because they both mean "the summer i turned 18" or "driving home 
 from college at 2am." That organizing logic is entirely personal, built
 from memory and repetition, not metadata.
 PROBLEM 
@@ -13,3 +14,18 @@ summer that everything feel apart sounds tragic pls visit therapy
 otherwise idea is good
 what are other additions you could have
 how do you build without metadata
+Meanwhile, every platform already has the raw signal to reconstruct this 
+— timestamps, replay patterns, skip behavior, sudden drop-offs or 
+re-emergences of a track after months — but none of it is surfaced back to the 
+user in a way that means anything. It's used internally to feed recommendation 
+engines, never to help someone understand their own listening life. 
+The result is that years of listening data accumulate invisibly, 
+and a user's only way to revisit "what music got me through that period" 
+is manual memory or a playlist they happened to name well at the time.
+
+PROBLEM:
+
+POTENTIAL SOLNS:
+
+
+IDEA 2 - BOOK
