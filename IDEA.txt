@@ -7,6 +7,13 @@ A song from a completely different genre and decade can sit next to another
 because they both mean "the summer i turned 18" or "driving home 
 from college at 2am." That organizing logic is entirely personal, built
 from memory and repetition, not metadata.
+PROBLEM 
+POTENTIAL SOLNS
+
+summer that everything feel apart sounds tragic pls visit therapy
+otherwise idea is good
+what are other additions you could have
+how do you build without metadata
 Meanwhile, every platform already has the raw signal to reconstruct this 
 — timestamps, replay patterns, skip behavior, sudden drop-offs or 
 re-emergences of a track after months — but none of it is surfaced back to the 
